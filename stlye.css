@@ -1,0 +1,34 @@
+.column {
+  text-align: center;
+  position: absolute;
+  width: 70px;
+  height: 70px;
+}
+
+.top-left {
+  background: #9f0780;
+  left: 0;
+  top: 0;
+}
+.top-right {
+  background: #097be4;
+  top: 0;
+  right: 0;
+}
+
+.center {
+  background: #5df118;
+  top: 50%;
+  left: 50%;
+}
+
+.bottom-left {
+  background: #06d2ff;
+  bottom: 0;
+  left: 0;
+}
+.bottom-right {
+  background: #c4cd0b;
+  bottom: 0;
+  right: 0;
+}
